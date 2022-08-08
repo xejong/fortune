@@ -1,0 +1,23 @@
+body{
+    background-color:#E6E6E6;
+}
+.system{
+    color: #14279B;
+    font-size: 30px;
+}
+.lottery{
+    color: #14279B;
+    font-size: 20px;
+}
+button{
+    background-color: #5C7AEA;
+    color: #E6E6E6;
+    border: 2px #3D56B2;
+    margin: 5px 5px 5px 0;
+    width: 510px;
+    height: 100px;
+    font-size: 30px;
+}
+label.lottery{
+    font-size: 20px;
+}
